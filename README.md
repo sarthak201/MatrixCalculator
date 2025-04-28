@@ -68,7 +68,7 @@ Setup
 
 
 
-Clone the repository: git clone https://github.com/your-username/MatrixCalculatorApp.git
+Clone the repository: git clone https://github.com/sarthak201/MatrixCalculatorApp.git
 
 
 

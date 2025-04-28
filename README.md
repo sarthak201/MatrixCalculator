@@ -48,7 +48,7 @@ Prerequisites
 
 
 
-Android Studio (Koala | 2024.1.1 or later)
+Android Studio (MeerKat)
 
 
 
